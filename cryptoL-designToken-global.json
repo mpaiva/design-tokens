@@ -504,6 +504,14 @@
     "body": {
       "value": "Roboto",
       "type": "fontFamilies"
+    },
+    "icon": {
+      "value": "Roboto",
+      "type": "fontFamilies"
+    },
+    "brand": {
+      "value": "Roboto",
+      "type": "fontFamilies"
     }
   },
   "lineHeights": {
@@ -538,6 +546,10 @@
     "h2": {
       "value": "26",
       "type": "paragraphSpacing"
+    },
+    "body": {
+      "value": "24",
+      "type": "paragraphSpacing"
     }
   },
   "fontWeights": {
@@ -555,6 +567,14 @@
     },
     "bodyBold": {
       "value": "Bold",
+      "type": "fontWeights"
+    },
+    "iconSolid": {
+      "value": "Solid",
+      "type": "fontWeights"
+    },
+    "iconLight": {
+      "value": "Light",
       "type": "fontWeights"
     }
   },
@@ -594,11 +614,27 @@
     "xs": {
       "value": "{fontSizes.body} * 0.65",
       "type": "fontSizes"
+    },
+    "xsIcon": {
+      "value": "{fontSizes.body} * 0.85",
+      "type": "fontSizes"
+    },
+    "mdIcon": {
+      "value": "{fontSizes.body} * 1.25",
+      "type": "fontSizes"
+    },
+    "lgIcon": {
+      "value": "{fontSizes.body} * 2",
+      "type": "fontSizes"
+    },
+    "xlIcon": {
+      "value": "{fontSizes.body} * 3",
+      "type": "fontSizes"
     }
   },
   "typography": {
-    "H1": {
-      "Bold": {
+    "h1": {
+      "bold": {
         "type": "typography",
         "value": {
           "fontFamily": "$fontFamilies.heading",
@@ -609,7 +645,7 @@
           "letterSpacing": "$letterSpacing.decreased"
         }
       },
-      "Regular": {
+      "regular": {
         "type": "typography",
         "value": {
           "fontFamily": "$fontFamilies.heading",
@@ -621,8 +657,8 @@
         }
       }
     },
-    "H2": {
-      "Bold": {
+    "h2": {
+      "bold": {
         "type": "typography",
         "value": {
           "fontFamily": "$fontFamilies.heading",
@@ -633,7 +669,7 @@
           "letterSpacing": "$letterSpacing.decreased"
         }
       },
-      "Regular": {
+      "regular": {
         "type": "typography",
         "value": {
           "fontFamily": "$fontFamilies.heading",
@@ -645,14 +681,14 @@
         }
       }
     },
-    "Body": {
+    "body": {
       "type": "typography",
       "value": {
         "fontFamily": "$fontFamilies.body",
         "fontWeight": "$fontWeights.bodyRegular",
         "lineHeight": "$lineHeights.heading",
         "fontSize": "$fontSizes.body",
-        "paragraphSpacing": "$paragraphSpacing.h2"
+        "paragraphSpacing": "$paragraphSpacing.body"
       }
     }
   }

@@ -749,7 +749,7 @@
         },
         "accent": {
             "default": {
-                "value": "{colors.indigo.600}",
+                "value": "{colors.indigo.200}",
                 "type": "color"
             }
         },

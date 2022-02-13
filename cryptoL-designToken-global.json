@@ -653,7 +653,7 @@
                         "fontFamily": "$fontFamilies.body",
                         "fontWeight": "$fontWeights.bodyBold",
                         "lineHeight": "$lineHeights.body",
-                        "fontSize": "$fontSizes.h2",
+                        "fontSize": "$fontSizes.body",
                         "paragraphSpacing": "$paragraphSpacing.body",
                         "letterSpacing": "$letterSpacing.decreased"
                     }
@@ -664,7 +664,7 @@
                         "fontFamily": "$fontFamilies.body",
                         "fontWeight": "$fontWeights.bodyRegular",
                         "lineHeight": "$lineHeights.body",
-                        "fontSize": "$fontSizes.h2",
+                        "fontSize": "$fontSizes.body",
                         "paragraphSpacing": "$paragraphSpacing.body",
                         "letterSpacing": "$letterSpacing.decreased"
                     }

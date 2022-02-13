@@ -685,9 +685,9 @@
       "type": "typography",
       "value": {
         "fontFamily": "$fontFamilies.body",
-        "fontWeight": "$fontWeights.bodyRegular",
+        "fontWeight": "$fontWeights.bodyBold",
         "lineHeight": "$lineHeights.heading",
-        "fontSize": "$fontSizes.body",
+        "fontSize": "{$fontSizes.body} * 2",
         "paragraphSpacing": "$paragraphSpacing.body"
       }
     }

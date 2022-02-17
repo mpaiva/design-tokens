@@ -162,11 +162,11 @@
                     "type": "color"
                 },
                 "500": {
-                    "value": "hsla({colors.red.hue}, 76%, 57%, 1)",
+                    "value": "#f56565",
                     "type": "color"
                 },
                 "600": {
-                    "value": "#e53e3e",
+                    "value": "hsla({colors.red.hue}, 76%, 57%, 1)",
                     "type": "color"
                 },
                 "700": {

@@ -309,78 +309,86 @@
                 }
             },
             "teal": {
+                "hue": {
+                    "value": "177",
+                    "type": "color"
+                },
                 "100": {
-                    "value": "#e6fffa",
+                    "value": "hsla({colors.teal.hue}, 100%, 98%, 1)",
                     "type": "color"
                 },
                 "200": {
-                    "value": "#b2f5ea",
+                    "value": "hsla({colors.teal.hue}, 95%, 95%, 1)",
                     "type": "color"
                 },
                 "300": {
-                    "value": "#81e6d9",
+                    "value": "hsla({colors.teal.hue}, 90%, 85%, 1)",
                     "type": "color"
                 },
                 "400": {
-                    "value": "#4fd1c5",
+                    "value": "hsla({colors.teal.hue}, 85%, 75%, 1)",
                     "type": "color"
                 },
                 "500": {
-                    "value": "#38b2ac",
+                    "value": "hsla({colors.teal.hue}, 80%, 65%, 1)",
                     "type": "color"
                 },
                 "600": {
-                    "value": "#319795",
+                    "value": "hsla({colors.teal.hue}, 75%, 55%, 1)",
                     "type": "color"
                 },
                 "700": {
-                    "value": "#2c7a7b",
+                    "value": "hsla({colors.teal.hue}, 60%, 45%, 1)",
                     "type": "color"
                 },
                 "800": {
-                    "value": "#285e61",
+                    "value": "hsla({colors.teal.hue}, 50%, 35%, 1)",
                     "type": "color"
                 },
                 "900": {
-                    "value": "#234e52",
+                    "value": "hsla({colors.teal.hue}, 45%, 25%, 1)",
                     "type": "color"
                 }
             },
             "blue": {
+                "hue": {
+                    "value": "207",
+                    "type": "color"
+                },
                 "100": {
-                    "value": "#ebf8ff",
+                    "value": "hsla({colors.blue.hue}, 100%, 98%, 1)",
                     "type": "color"
                 },
                 "200": {
-                    "value": "#bee3f8",
+                    "value": "hsla({colors.blue.hue}, 95%, 95%, 1)",
                     "type": "color"
                 },
                 "300": {
-                    "value": "#90cdf4",
+                    "value": "hsla({colors.blue.hue}, 90%, 85%, 1)",
                     "type": "color"
                 },
                 "400": {
-                    "value": "#63b3ed",
+                    "value": "hsla({colors.blue.hue}, 85%, 75%, 1)",
                     "type": "color"
                 },
                 "500": {
-                    "value": "#4299e1",
+                    "value": "hsla({colors.blue.hue}, 80%, 65%, 1)",
                     "type": "color"
                 },
                 "600": {
-                    "value": "#3182ce",
+                    "value": "hsla({colors.blue.hue}, 75%, 55%, 1)",
                     "type": "color"
                 },
                 "700": {
-                    "value": "#2b6cb0",
+                    "value": "hsla({colors.blue.hue}, 60%, 45%, 1)",
                     "type": "color"
                 },
                 "800": {
-                    "value": "#2c5282",
+                    "value": "hsla({colors.blue.hue}, 50%, 35%, 1)",
                     "type": "color"
                 },
                 "900": {
-                    "value": "#2a4365",
+                    "value": "hsla({colors.blue.hue}, 45%, 25%, 1)",
                     "type": "color"
                 }
             },

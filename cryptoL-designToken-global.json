@@ -184,7 +184,7 @@
             },
             "orange": {
                 "hue": {
-                    "value": "24",
+                    "value": "27",
                     "type": "color"
                 },
                 "100": {
@@ -226,7 +226,7 @@
             },
             "yellow": {
                 "hue": {
-                    "value": "40",
+                    "value": "47",
                     "type": "color"
                 },
                 "100": {

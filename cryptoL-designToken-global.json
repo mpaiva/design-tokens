@@ -150,39 +150,43 @@
                     "type": "color"
                 },
                 "200": {
-                    "value": "hsla({colors.red.hue}, 95%, 92%, 1)",
+                    "value": "hsla({colors.red.hue}, 95%, 95%, 1)",
                     "type": "color"
                 },
                 "300": {
-                    "value": "hsla({colors.red.hue}, 97%, 85%, 1)",
+                    "value": "hsla({colors.red.hue}, 90%, 85%, 1)",
                     "type": "color"
                 },
                 "400": {
-                    "value": "hsla({colors.red.hue}, 95%, 75%, 1)",
+                    "value": "hsla({colors.red.hue}, 85%, 75%, 1)",
                     "type": "color"
                 },
                 "500": {
-                    "value": "hsla({colors.red.hue}, 88%, 68%, 1)",
+                    "value": "hsla({colors.red.hue}, 80%, 65%, 1)",
                     "type": "color"
                 },
                 "600": {
-                    "value": "hsla({colors.red.hue}, 76%, 57%, 1)",
+                    "value": "hsla({colors.red.hue}, 75%, 55%, 1)",
                     "type": "color"
                 },
                 "700": {
-                    "value": "hsla({colors.red.hue}, 61%, 48%, 1)",
+                    "value": "hsla({colors.red.hue}, 60%, 45%, 1)",
                     "type": "color"
                 },
                 "800": {
-                    "value": "hsla({colors.red.hue}, 56%, 39%, 1)",
+                    "value": "hsla({colors.red.hue}, 50%, 35%, 1)",
                     "type": "color"
                 },
                 "900": {
-                    "value": "hsla({colors.red.hue}, 47%, 31%, 1)",
+                    "value": "hsla({colors.red.hue}, 45%, 25%, 1)",
                     "type": "color"
                 }
             },
             "orange": {
+                "hue": {
+                    "value": "0",
+                    "type": "color"
+                },
                 "100": {
                     "value": "#fffaf0",
                     "type": "color"

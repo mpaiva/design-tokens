@@ -142,27 +142,27 @@
             },
             "red": {
                 "hue": {
-                    "value": "0",
+                    "value": "120",
                     "type": "color"
                 },
                 "100": {
-                    "value": "#fff5f5",
+                    "value": "hsla({colors.red.hue}, 100%, 98%, 1)",
                     "type": "color"
                 },
                 "200": {
-                    "value": "#fed7d7",
+                    "value": "hsla({colors.red.hue}, 95%, 92%, 1)",
                     "type": "color"
                 },
                 "300": {
-                    "value": "#feb2b2",
+                    "value": "hsla({colors.red.hue}, 97%, 85%, 1)",
                     "type": "color"
                 },
                 "400": {
-                    "value": "#fc8181",
+                    "value": "hsla({colors.red.hue}, 95%, 75%, 1)",
                     "type": "color"
                 },
                 "500": {
-                    "value": "#f56565",
+                    "value": "hsla({colors.red.hue}, 88%, 68%, 1)",
                     "type": "color"
                 },
                 "600": {
@@ -170,15 +170,15 @@
                     "type": "color"
                 },
                 "700": {
-                    "value": "#c53030",
+                    "value": "hsla({colors.red.hue}, 61%, 48%, 1)",
                     "type": "color"
                 },
                 "800": {
-                    "value": "#9b2c2c",
+                    "value": "hsla({colors.red.hue}, 56%, 39%, 1)",
                     "type": "color"
                 },
                 "900": {
-                    "value": "#742a2a",
+                    "value": "hsla({colors.red.hue}, 47%, 31%, 1)",
                     "type": "color"
                 }
             },

@@ -220,7 +220,7 @@
                     "type": "color"
                 },
                 "hue": {
-                    "value": "27",
+                    "value": "24",
                     "type": "color"
                 }
             },
@@ -942,7 +942,7 @@
                         "lineHeight": "$fontSizes.xl",
                         "fontSize": "$fontSizes.xl",
                         "paragraphSpacing": "$fontSizes.xl",
-                        "letterSpacing": "$$fontSizes.xl"
+                        "letterSpacing": "$fontSizes.xl"
                     }
                 }
             }

@@ -535,7 +535,7 @@
         },
         "fontFamilies": {
             "heading": {
-                "value": "Lobster Two",
+                "value": "Inter",
                 "type": "fontFamilies"
             },
             "body": {

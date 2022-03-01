@@ -33,28 +33,75 @@
         },
         "sizing": {
             "scale": {
-                "value": "1.5",
-                "type": "sizing"
-            },
-            "xs": {
                 "value": "4",
                 "type": "sizing"
             },
+            "rem": {
+                "value": "0.0625",
+                "type": "sizing"
+            },
+            "xs": {
+                "value": "{sizing.size-7} / {sizing.rem}",
+                "type": "sizing"
+            },
             "sm": {
-                "value": "{sizing.xs} * {sizing.scale}",
+                "value": "{sizing.size-6} / {sizing.rem}",
                 "type": "sizing"
             },
             "md": {
-                "value": "{sizing.sm} * {sizing.scale}",
+                "value": "{sizing.size-5} / {sizing.rem}",
                 "type": "sizing"
             },
             "lg": {
-                "value": "{sizing.md} * {sizing.scale}",
+                "value": "{sizing.size-4} / {sizing.rem}",
                 "type": "sizing"
             },
             "xl": {
-                "value": "{sizing.lg} * {sizing.scale}",
+                "value": "{sizing.size-3} / {sizing.rem}",
                 "type": "sizing"
+            },
+            "2xl": {
+                "value": "{sizing.size-2} / {sizing.rem}",
+                "type": "sizing"
+            },
+            "3xl": {
+                "value": "{sizing.size-1} / {sizing.rem}",
+                "type": "sizing"
+            },
+            "size-1": {
+                "value": "3",
+                "description": "bulma variable",
+                "type": "size"
+            },
+            "size-2": {
+                "value": "2.5",
+                "description": "bulma variable",
+                "type": "size"
+            },
+            "size-3": {
+                "value": "2",
+                "description": "bulma variable",
+                "type": "size"
+            },
+            "size-4": {
+                "value": "1.5",
+                "description": "bulma variable",
+                "type": "size"
+            },
+            "size-5": {
+                "value": "1.25",
+                "description": "bulma variable",
+                "type": "size"
+            },
+            "size-6": {
+                "value": "1",
+                "description": "bulma variable",
+                "type": "size"
+            },
+            "size-7": {
+                "value": ".75",
+                "description": "bulma variable",
+                "type": "size"
             }
         },
         "borderRadius": {
@@ -69,6 +116,26 @@
             "xl": {
                 "value": "16",
                 "type": "borderRadius"
+            },
+            "radius": {
+                "value": "4",
+                "description": "bulma variable",
+                "type": "size"
+            },
+            "radius-small": {
+                "value": "2",
+                "description": "bulma variable",
+                "type": "size"
+            },
+            "radius-large": {
+                "value": "6",
+                "description": "bulma variable",
+                "type": "size"
+            },
+            "radius-rounded": {
+                "value": "9999",
+                "description": "bulma variable",
+                "type": "size"
             }
         },
         "borderWidth": {
@@ -212,7 +279,7 @@
                     "type": "color"
                 },
                 "500": {
-                    "value": "hsla({colors.red.hue}, 80%, 65%, 1)",
+                    "value": "hsla({colors.red.hue}, 86%, 61%, 1)",
                     "type": "color"
                 },
                 "600": {
@@ -254,7 +321,7 @@
                     "type": "color"
                 },
                 "500": {
-                    "value": "hsla({colors.orange.hue}, 80%, 65%, 1)",
+                    "value": "hsla({colors.orange.hue}, 100%, 53%, 1)",
                     "type": "color"
                 },
                 "600": {
@@ -296,7 +363,7 @@
                     "type": "color"
                 },
                 "500": {
-                    "value": "hsla({colors.yellow.hue}, 80%, 65%, 1)",
+                    "value": "hsla({colors.yellow.hue}, 100%, 77%, 1)",
                     "type": "color"
                 },
                 "600": {
@@ -338,7 +405,7 @@
                     "type": "color"
                 },
                 "500": {
-                    "value": "hsla({colors.green.hue}, 80%, 65%, 1)",
+                    "value": "hsla({colors.green.hue}, 53%, 53%, 1)",
                     "type": "color"
                 },
                 "600": {
@@ -380,7 +447,7 @@
                     "type": "color"
                 },
                 "500": {
-                    "value": "hsla({colors.teal.hue}, 80%, 65%, 1)",
+                    "value": "hsla({colors.teal.hue}, 100%, 41%, 1)",
                     "type": "color"
                 },
                 "600": {
@@ -422,7 +489,7 @@
                     "type": "color"
                 },
                 "500": {
-                    "value": "hsla({colors.blue.hue}, 80%, 65%, 1)",
+                    "value": "hsla({colors.blue.hue}, 53%, 53%, 1)",
                     "type": "color"
                 },
                 "600": {
@@ -464,7 +531,7 @@
                     "type": "color"
                 },
                 "500": {
-                    "value": "hsla({colors.indigo.hue}, 80%, 65%, 1)",
+                    "value": "hsla({colors.indigo.hue}, 61%, 53%, 1)",
                     "type": "color"
                 },
                 "600": {
@@ -506,7 +573,7 @@
                     "type": "color"
                 },
                 "500": {
-                    "value": "hsla({colors.purple.hue}, 80%, 65%, 1)",
+                    "value": "hsla({colors.purple.hue}, 100%, 71%, 1)",
                     "type": "color"
                 },
                 "600": {

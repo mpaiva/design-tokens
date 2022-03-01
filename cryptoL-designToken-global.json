@@ -102,20 +102,20 @@
                 "value": "hsla(0, 0%, 100%, 1)",
                 "type": "color"
             },
-            "$shades": {
-                "$white-bis": {
+            "shades": {
+                "white-bis": {
                     "value": "hsla(0, 0%, 98%, 1)",
                     "type": "color"
                 },
-                "$white-ter": {
+                "white-ter": {
                     "value": "hsla(0, 0%, 96%, 1)",
                     "type": "color"
                 },
-                "$grey-lighter": {
+                "grey-lighter": {
                     "value": "hsla(0, 0%, 86%, 1)",
                     "type": "color"
                 },
-                "$grey-light": {
+                "grey-light": {
                     "value": "hsla(0, 0%, 71%, 1)",
                     "type": "color"
                 },
@@ -123,19 +123,19 @@
                     "value": "hsla(0, 0%, 50%, 1)",
                     "type": "color"
                 },
-                "$grey-dark": {
+                "grey-dark": {
                     "value": "hsla(0, 0%, 29%, 1)",
                     "type": "color"
                 },
-                "$grey-darker": {
+                "grey-darker": {
                     "value": "hsla(0, 0%, 21%, 1)",
                     "type": "color"
                 },
-                "$black-ter": {
+                "black-ter": {
                     "value": "hsla(0, 0%, 14%, 1)",
                     "type": "color"
                 },
-                "$black-bis": {
+                "black-bis": {
                     "value": "hsla(0, 0%, 7%, 1)",
                     "type": "color"
                 }

@@ -431,39 +431,39 @@
             },
             "turquoise": {
                 "100": {
-                    "value": "hsla({colors.teal.hue}, 100%, 98%, 1)",
+                    "value": "hsla({colors.turquoise.hue}, 100%, 98%, 1)",
                     "type": "color"
                 },
                 "200": {
-                    "value": "hsla({colors.teal.hue}, 95%, 95%, 1)",
+                    "value": "hsla({colors.turquoise.hue}, 95%, 95%, 1)",
                     "type": "color"
                 },
                 "300": {
-                    "value": "hsla({colors.teal.hue}, 90%, 85%, 1)",
+                    "value": "hsla({colors.turquoise.hue}, 90%, 85%, 1)",
                     "type": "color"
                 },
                 "400": {
-                    "value": "hsla({colors.teal.hue}, 85%, 75%, 1)",
+                    "value": "hsla({colors.turquoise.hue}, 85%, 75%, 1)",
                     "type": "color"
                 },
                 "500": {
-                    "value": "hsla({colors.teal.hue}, 100%, 41%, 1)",
+                    "value": "hsla({colors.turquoise.hue}, 100%, 41%, 1)",
                     "type": "color"
                 },
                 "600": {
-                    "value": "hsla({colors.teal.hue}, 75%, 55%, 1)",
+                    "value": "hsla({colors.turquoise.hue}, 75%, 55%, 1)",
                     "type": "color"
                 },
                 "700": {
-                    "value": "hsla({colors.teal.hue}, 60%, 45%, 1)",
+                    "value": "hsla({colors.turquoise.hue}, 60%, 45%, 1)",
                     "type": "color"
                 },
                 "800": {
-                    "value": "hsla({colors.teal.hue}, 50%, 35%, 1)",
+                    "value": "hsla({colors.turquoise.hue}, 50%, 35%, 1)",
                     "type": "color"
                 },
                 "900": {
-                    "value": "hsla({colors.teal.hue}, 45%, 25%, 1)",
+                    "value": "hsla({colors.turquoise.hue}, 45%, 25%, 1)",
                     "type": "color"
                 },
                 "hue": {
@@ -515,39 +515,39 @@
             },
             "cyan": {
                 "100": {
-                    "value": "hsla({colors.indigo.hue}, 100%, 98%, 1)",
+                    "value": "hsla({colors.cyan.hue}, 100%, 98%, 1)",
                     "type": "color"
                 },
                 "200": {
-                    "value": "hsla({colors.indigo.hue}, 95%, 95%, 1)",
+                    "value": "hsla({colors.cyan.hue}, 95%, 95%, 1)",
                     "type": "color"
                 },
                 "300": {
-                    "value": "hsla({colors.indigo.hue}, 90%, 85%, 1)",
+                    "value": "hsla({colors.cyan.hue}, 90%, 85%, 1)",
                     "type": "color"
                 },
                 "400": {
-                    "value": "hsla({colors.indigo.hue}, 85%, 75%, 1)",
+                    "value": "hsla({colors.cyan.hue}, 85%, 75%, 1)",
                     "type": "color"
                 },
                 "500": {
-                    "value": "hsla({colors.indigo.hue}, 61%, 53%, 1)",
+                    "value": "hsla({colors.cyan.hue}, 61%, 53%, 1)",
                     "type": "color"
                 },
                 "600": {
-                    "value": "hsla({colors.indigo.hue}, 75%, 55%, 1)",
+                    "value": "hsla({colors.cyan.hue}, 75%, 55%, 1)",
                     "type": "color"
                 },
                 "700": {
-                    "value": "hsla({colors.indigo.hue}, 60%, 45%, 1)",
+                    "value": "hsla({colors.cyan.hue}, 60%, 45%, 1)",
                     "type": "color"
                 },
                 "800": {
-                    "value": "hsla({colors.indigo.hue}, 50%, 35%, 1)",
+                    "value": "hsla({colors.cyan.hue}, 50%, 35%, 1)",
                     "type": "color"
                 },
                 "900": {
-                    "value": "hsla({colors.indigo.hue}, 45%, 25%, 1)",
+                    "value": "hsla({colors.cyan.hue}, 45%, 25%, 1)",
                     "type": "color"
                 },
                 "hue": {

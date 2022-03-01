@@ -95,48 +95,48 @@
         },
         "colors": {
             "black": {
-                "value": "#000000",
+                "value": "hsla(0, 0%, 4%, 1)",
                 "type": "color"
             },
             "white": {
-                "value": "#ffffff",
+                "value": "hsla(0, 0%, 100%, 1)",
                 "type": "color"
             },
-            "gray": {
-                "100": {
-                    "value": "#f7fafc",
+            "$shades": {
+                "$white-bis": {
+                    "value": "hsla(0, 0%, 98%, 1)",
                     "type": "color"
                 },
-                "200": {
-                    "value": "#edf2f7",
+                "$white-ter": {
+                    "value": "hsla(0, 0%, 96%, 1)",
                     "type": "color"
                 },
-                "300": {
-                    "value": "#e2e8f0",
+                "$grey-lighter": {
+                    "value": "hsla(0, 0%, 86%, 1)",
                     "type": "color"
                 },
-                "400": {
-                    "value": "#cbd5e0",
+                "$grey-light": {
+                    "value": "hsla(0, 0%, 71%, 1)",
                     "type": "color"
                 },
-                "500": {
-                    "value": "#a0aec0",
+                "grey": {
+                    "value": "hsla(0, 0%, 50%, 1)",
                     "type": "color"
                 },
-                "600": {
-                    "value": "#718096",
+                "$grey-dark": {
+                    "value": "hsla(0, 0%, 29%, 1)",
                     "type": "color"
                 },
-                "700": {
-                    "value": "#4a5568",
+                "$grey-darker": {
+                    "value": "hsla(0, 0%, 21%, 1)",
                     "type": "color"
                 },
-                "800": {
-                    "value": "#2d3748",
+                "$black-ter": {
+                    "value": "hsla(0, 0%, 14%, 1)",
                     "type": "color"
                 },
-                "900": {
-                    "value": "#1a202c",
+                "$black-bis": {
+                    "value": "hsla(0, 0%, 7%, 1)",
                     "type": "color"
                 }
             },
@@ -977,7 +977,10 @@
                 "type": "color"
             }
         },
-        "accent": {
+        "primary": {
+
+        },
+        "secondary": {
             "default": {
                 "value": "{colors.indigo.400}",
                 "type": "color"
@@ -1019,7 +1022,10 @@
                 "type": "color"
             }
         },
-        "accent": {
+        "primary": {
+
+        },
+        "secondary": {
             "default": {
                 "value": "{colors.indigo.200}",
                 "type": "color"

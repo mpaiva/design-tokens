@@ -1081,28 +1081,24 @@
     },
     "bulma-light": {
         "foreground": {
-            "value": "{colors.turquoise.500}",
+            "value": "{colors.black-bis}",
             "type": "color"
         },
         "background": {
-            "value": "{colors.turquoise.500}",
+            "value": "{colors.white-bis}",
             "type": "color"
         },
         "primary": {
-            "value": "{colors.turquoise.500}",
+            "value": "{colors.turquoise}",
             "type": "color"
         },
         "secondary": {
-            "default": {
-                "value": "{colors.indigo.500}",
-                "type": "color"
-            }
+            "value": "{colors.orange}",
+            "type": "color"
         },
         "shadows": {
-            "default": {
-                "value": "{colors.grey.900}",
-                "type": "color"
-            }
+            "value": "{colors.grey-dark}",
+            "type": "color"
         }
     },
     "bulma-dark": {

@@ -1081,19 +1081,19 @@
     },
     "bulma-light": {
         "foreground": {
-            "value": "{colors.black-bis}",
+            "value": "{shades.black-bis}",
             "type": "color"
         },
         "background": {
-            "value": "{colors.white-bis}",
+            "value": "{shades.white-bis}",
             "type": "color"
         },
         "primary": {
-            "value": "{colors.turquoise}",
+            "value": "{colors.turquoise.500}",
             "type": "color"
         },
         "secondary": {
-            "value": "{colors.orange}",
+            "value": "{colors.orange.500}",
             "type": "color"
         },
         "shadows": {

@@ -1099,47 +1099,114 @@
         "shadows": {
             "value": "{colors.shades.grey-dark}",
             "type": "color"
+        },
+        "link": {
+            "value": "{colors.pink.500}",
+            "type": "color"
+        },
+        "focus": {
+            "value": "{colors.pink.500}",
+            "type": "color"
+        },
+        "emphasis": {
+            "high": {
+                "value": "{colors.pink.500}",
+                "type": "color"
+            },
+            "medium": {
+                "value": "{colors.pink.700}",
+                "type": "color"
+            },
+            "low": {
+                "value": "{colors.pink.900}",
+                "type": "color"
+            }
+        },
+        "component": {
+            "surface": {
+                "value": "{colors.shades.white-bis}",
+                "type": "color"
+            },
+            "border": {
+                "value": "{colors.shades.white-bis}",
+                "type": "color"
+            },
+            "hover": {
+                "value": "{colors.shades.white-bis}",
+                "type": "color"
+            },
+            "focus": {
+                "value": "{colors.shades.white-bis}",
+                "type": "color"
+            },
+            "active": {
+                "value": "{colors.shades.white-bis}",
+                "type": "color"
+            }
         }
     },
     "bulma-dark": {
-        "fg": {
-            "default": {
-                "value": "{colors.white}",
-                "type": "color"
-            },
-            "muted": {
-                "value": "{colors.grey.300}",
-                "type": "color"
-            },
-            "subtle": {
-                "value": "{colors.grey.500}",
-                "type": "color"
-            }
+        "foreground": {
+            "value": "{colors.shades.white-bis}",
+            "type": "color"
         },
-        "bg": {
-            "default": {
-                "value": "{colors.grey.900}",
-                "type": "color"
-            },
-            "muted": {
-                "value": "{colors.grey.700}",
-                "type": "color"
-            },
-            "subtle": {
-                "value": "{colors.grey.600}",
-                "type": "color"
-            }
+        "background": {
+            "value": "{colors.shades.black-bis}",
+            "type": "color"
         },
-        "primary": {},
+        "primary": {
+            "value": "{colors.turquoise.500}",
+            "type": "color"
+        },
         "secondary": {
-            "default": {
-                "value": "{colors.indigo.200}",
-                "type": "color"
-            }
+            "value": "{colors.orange.500}",
+            "type": "color"
         },
         "shadows": {
-            "default": {
-                "value": "{colors.grey.100}",
+            "value": "{colors.shades.grey-dark}",
+            "type": "color"
+        },
+        "link": {
+            "value": "{colors.pink.500}",
+            "type": "color"
+        },
+        "focus": {
+            "value": "{colors.pink.500}",
+            "type": "color"
+        },
+        "emphasis": {
+            "high": {
+                "value": "{colors.purple.500}",
+                "type": "color"
+            },
+            "medium": {
+                "value": "{colors.purple.700}",
+                "type": "color"
+            },
+            "low": {
+                "value": "{colors.purple.900}",
+                "type": "color"
+            }
+        },
+        "component": {
+            "surface": {
+                "value": "{colors.shades.black-bis}",
+                "type": "color"
+            },
+            "border": {
+                "value": "{colors.shades.white-bis}",
+                "type": "color"
+            },
+            "hover": {
+                "value": "{colors.shades.black-bis}",
+                "type": "color"
+            },
+            "focus": {
+                "value": "{colors.shades.black-bis}",
+                "type": "color"
+            },
+            "active": {
+                "value": "{colors.shades.white-bis}",
                 "type": "color"
             }
         }

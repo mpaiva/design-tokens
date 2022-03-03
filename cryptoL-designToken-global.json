@@ -1141,7 +1141,8 @@
             },
             "focus": {
                 "value": "{colors.pink.700}",
-                "type": "color"
+                "type": "color",
+                "description": "visual focus"
             },
             "active": {
                 "value": "{colors.shades.white-bis}",

@@ -1155,7 +1155,7 @@
                   "y": "8",
                   "blur": "16",
                   "spread": "-2",
-                  "color": "{bulma-light.shadow-1})",
+                  "color": "{bulma-light.shadow-1}",
                   "type": "dropShadow"
                 },
                 {
@@ -1247,7 +1247,7 @@
                   "y": "8",
                   "blur": "16",
                   "spread": "-2",
-                  "color": "{bulma-dark.shadow-1})",
+                  "color": "{bulma-dark.shadow-1}",
                   "type": "dropShadow"
                 },
                 {

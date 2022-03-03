@@ -1097,7 +1097,7 @@
             "type": "color"
         },
         "link": {
-            "value": "{colors.pink.500}",
+            "value": "{colors.blue.600}",
             "type": "color"
         },
         "focus": {
@@ -1190,7 +1190,7 @@
             "type": "color"
         },
         "link": {
-            "value": "{colors.pink.500}",
+            "value": "{colors.cyan.600}",
             "type": "color"
         },
         "focus": {

@@ -1140,9 +1140,8 @@
                 "type": "color"
             },
             "focus": {
-                "value": "{colors.pink.500}",
-                "type": "color",
-                "description": "I'm a broken reference"
+                "value": "{colors.pink.700}",
+                "type": "color"
             },
             "active": {
                 "value": "{colors.shades.white-bis}",

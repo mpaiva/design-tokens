@@ -1124,7 +1124,7 @@
         },
         "component": {
             "surface": {
-                "value": "{colors.shades.white-bis}",
+                "value": "{colors.white}",
                 "type": "color"
             },
             "border": {

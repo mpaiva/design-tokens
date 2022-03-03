@@ -1140,7 +1140,7 @@
                 "type": "color"
             },
             "focus": {
-                "value": "{global.bulma-light.focus}",
+                "value": "{colors.pink.500}",
                 "type": "color",
                 "description": "I'm a broken reference"
             },

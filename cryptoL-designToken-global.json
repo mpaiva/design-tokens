@@ -1108,6 +1108,14 @@
             "value": "{colors.pink.500}",
             "type": "color"
         },
+        "shadow-1": {
+            "value": "hsla(0, 0%, 20%, 0.1)",
+            "type": "color"
+        },
+        "shadow-2": {
+            "value": "hsla(0, 0%, 20%, 0.02)",
+            "type": "color"
+        },
         "emphasis": {
             "high": {
                 "value": "{colors.shades.black-bis}",
@@ -1142,6 +1150,28 @@
             "active": {
                 "value": "{colors.shades.white-bis}",
                 "type": "color"
+            },
+            "shadow": {
+              "value": [
+                {
+                  "x": "0",
+                  "y": "8",
+                  "blur": "16",
+                  "spread": "-2",
+                  "color": "{bulma-dark.shadow-1})",
+                  "type": "dropShadow"
+                },
+                {
+                  "x": "0",
+                  "y": "0",
+                  "blur": "0",
+                  "spread": "16",
+                  "color": "{bulma-dark.shadow-2}",
+                  "type": "dropShadow"
+                }
+              ],
+              "description": "bulma-shadow",
+              "type": "other"
             }
         }
     },
@@ -1162,16 +1192,20 @@
             "value": "{colors.orange.500}",
             "type": "color"
         },
-        "shadows": {
-            "value": "{colors.shades.grey-dark}",
-            "type": "color"
-        },
         "link": {
             "value": "{colors.pink.500}",
             "type": "color"
         },
         "focus": {
             "value": "{colors.pink.500}",
+            "type": "color"
+        },
+        "shadow-1": {
+            "value": "hsla(0, 0%, 0%, 0.1)",
+            "type": "color"
+        },
+        "shadow-2": {
+            "value": "hsla(0, 0%, 0%, 0.02)",
             "type": "color"
         },
         "emphasis": {
@@ -1208,6 +1242,28 @@
             "active": {
                 "value": "{colors.shades.white-bis}",
                 "type": "color"
+            },
+            "shadow": {
+              "value": [
+                {
+                  "x": "0",
+                  "y": "8",
+                  "blur": "16",
+                  "spread": "-2",
+                  "color": "{bulma-dark.shadow-1})",
+                  "type": "dropShadow"
+                },
+                {
+                  "x": "0",
+                  "y": "0",
+                  "blur": "0",
+                  "spread": "16",
+                  "color": "{bulma-dark.shadow-2}",
+                  "type": "dropShadow"
+                }
+              ],
+              "description": "bulma-shadow",
+              "type": "other"
             }
         }
     },

@@ -1168,7 +1168,7 @@
                 }
               ],
               "description": "bulma-shadow",
-              "type": "other"
+              "type": "boxShadow"
             }
         }
     },
@@ -1233,7 +1233,7 @@
                 "type": "color"
             },
             "focus": {
-                "value": "{bulma-dark.focus}",
+                "value": "{colors.orange.600}",
                 "type": "color"
             },
             "active": {
@@ -1260,7 +1260,7 @@
                 }
               ],
               "description": "bulma-shadow",
-              "type": "other"
+              "type": "boxShadow"
             }
         }
     },

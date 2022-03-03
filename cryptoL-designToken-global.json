@@ -1096,10 +1096,6 @@
             "value": "{colors.orange.500}",
             "type": "color"
         },
-        "shadows": {
-            "value": "{colors.shades.grey-dark}",
-            "type": "color"
-        },
         "link": {
             "value": "{colors.pink.500}",
             "type": "color"
@@ -1158,7 +1154,7 @@
                   "y": "8",
                   "blur": "16",
                   "spread": "-2",
-                  "color": "{bulma-dark.shadow-1})",
+                  "color": "{bulma-light.shadow-1})",
                   "type": "dropShadow"
                 },
                 {
@@ -1166,7 +1162,7 @@
                   "y": "0",
                   "blur": "0",
                   "spread": "16",
-                  "color": "{bulma-dark.shadow-2}",
+                  "color": "{bulma-light.shadow-2}",
                   "type": "dropShadow"
                 }
               ],

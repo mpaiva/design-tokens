@@ -41,7 +41,7 @@
                 "type": "sizing"
             },
             "mobile": {
-                "value": "1",
+                "value": "1.125",
                 "type": "sizing"
             },
             "viewport-scale": {

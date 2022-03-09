@@ -33,7 +33,7 @@
         },
         "sizing": {
             "rem": {
-                "value": "0.625",
+                "value": "0.0625",
                 "type": "sizing"
             },
             "web": {
@@ -41,7 +41,7 @@
                 "type": "sizing"
             },
             "mobile": {
-                "value": "1.625",
+                "value": "1",
                 "type": "sizing"
             },
             "viewport-scale": {

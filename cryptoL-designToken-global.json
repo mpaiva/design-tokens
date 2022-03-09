@@ -756,23 +756,23 @@
         },
         "fontSizes": {
             "h1": {
-                "value": "{sizing.size-1}",
+                "value": "{sizing.size-6}",
                 "type": "fontSizes"
             },
             "h2": {
-                "value": "{sizing.size-1}",
+                "value": "{sizing.size-5}",
                 "type": "fontSizes"
             },
             "h3": {
-                "value": "{sizing.size-1}",
+                "value": "{sizing.size-4}",
                 "type": "fontSizes"
             },
             "h4": {
-                "value": "{sizing.size-1}",
+                "value": "{sizing.size-3}",
                 "type": "fontSizes"
             },
             "h5": {
-                "value": "{sizing.size-1}",
+                "value": "{sizing.size-2}",
                 "type": "fontSizes"
             },
             "h6": {
@@ -780,7 +780,7 @@
                 "type": "fontSizes"
             },
             "body": {
-                "value": "{sizing.size-1}",
+                "value": "{sizing.size-3}",
                 "type": "fontSizes"
             },
             "xs": {

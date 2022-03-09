@@ -41,7 +41,7 @@
                 "type": "sizing"
             },
             "mobile": {
-                "value": "1.625",
+                "value": "1.25",
                 "type": "sizing"
             },
             "viewport-scale": {
@@ -50,7 +50,8 @@
             },
             "xs": {
                 "value": "{sizing.size-7} / {sizing.rem}",
-                "type": "sizing"
+                "type": "sizing",
+                "description": "Alan's size"
             },
             "sm": {
                 "value": "{sizing.size-6} / {sizing.rem}",
@@ -307,7 +308,7 @@
                     "type": "color"
                 },
                 "hue": {
-                    "value": "360",
+                    "value": "348",
                     "type": "color"
                 }
             },

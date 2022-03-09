@@ -33,7 +33,7 @@
         },
         "sizing": {
             "rem": {
-                "value": "0.0625",
+                "value": "0.625",
                 "type": "sizing"
             },
             "web": {

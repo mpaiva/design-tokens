@@ -1100,6 +1100,19 @@
       },
       "type": "typography",
       "description": "button label"
+    },
+    "label-caps": {
+      "value": {
+        "fontFamily": "Inter",
+        "fontWeight": "Regular",
+        "lineHeight": "AUTO",
+        "fontSize": "18",
+        "letterSpacing": "0%",
+        "paragraphSpacing": "0",
+        "textDecoration": "none",
+        "textCase": "Uppercase"
+      },
+      "type": "typography"
     }
   },
   "bulma-light": {

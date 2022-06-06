@@ -1218,7 +1218,7 @@
       "type": "color"
     },
     "primary": {
-      "value": "{colors.purple.500}",
+      "value": "{colors.blue.500}",
       "type": "color"
     },
     "secondary": {
@@ -1374,5 +1374,6 @@
         "type": "boxShadow"
       }
     }
-  }
+  },
+  "$themes": []
 }

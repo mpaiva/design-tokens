@@ -49,32 +49,32 @@
                 "type": "sizing"
             },
             "xs": {
-                "value": "{sizing.size-7} / {sizing.rem}",
+                "value": "{sizing.size-7}",
                 "type": "sizing",
                 "description": "Alan's size"
             },
             "sm": {
-                "value": "{sizing.size-6} / {sizing.rem}",
+                "value": "{sizing.size-6}",
                 "type": "sizing"
             },
             "md": {
-                "value": "{sizing.size-5} / {sizing.rem}",
+                "value": "{sizing.size-5}",
                 "type": "sizing"
             },
             "lg": {
-                "value": "{sizing.size-4} / {sizing.rem}",
+                "value": "{sizing.size-4}",
                 "type": "sizing"
             },
             "xl": {
-                "value": "{sizing.size-3} / {sizing.rem}",
+                "value": "{sizing.size-3}",
                 "type": "sizing"
             },
             "2xl": {
-                "value": "{sizing.size-2} / {sizing.rem}",
+                "value": "{sizing.size-2}",
                 "type": "sizing"
             },
             "3xl": {
-                "value": "{sizing.size-1} / {sizing.rem}",
+                "value": "{sizing.size-1}",
                 "type": "sizing"
             },
             "size-1": {

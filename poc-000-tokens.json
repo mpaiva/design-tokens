@@ -720,6 +720,18 @@
                 "value": "24",
                 "type": "paragraphSpacing"
             },
+            "h4": {
+                "value": "24",
+                "type": "paragraphSpacing"
+            },
+            "h5": {
+                "value": "24",
+                "type": "paragraphSpacing"
+            },
+            "h6": {
+                "value": "24",
+                "type": "paragraphSpacing"
+            },
             "heading": {
                 "value": "24",
                 "type": "paragraphSpacing"

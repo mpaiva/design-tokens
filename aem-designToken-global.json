@@ -1155,7 +1155,7 @@
       "type": "color"
     },
     "primary": {
-      "value": "{colors.turquoise.500}",
+      "value": "{colors.green.500}",
       "type": "color"
     },
     "secondary": {

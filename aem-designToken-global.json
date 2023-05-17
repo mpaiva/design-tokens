@@ -981,7 +981,7 @@
             "fontFamily": "$fontFamilies.icon",
             "fontWeight": "$fontWeights.iconLight",
             "lineHeight": "$fontSizes.xs",
-            "fontSize": "$fontSizes.xs",
+            "fontSize": "$fontSizes.xs * 10",
             "paragraphSpacing": "$fontSizes.xs",
             "letterSpacing": "$fontSizes.xs"
           }
@@ -992,7 +992,7 @@
             "fontFamily": "$fontFamilies.icon",
             "fontWeight": "$fontWeights.iconSolid",
             "lineHeight": "$fontSizes.xs",
-            "fontSize": "$fontSizes.xs",
+            "fontSize": "$fontSizes.xs * 10",
             "paragraphSpacing": "$fontSizes.xs",
             "letterSpacing": "$fontSizes.xs"
           }
@@ -1003,7 +1003,7 @@
             "fontFamily": "$fontFamilies.icon",
             "fontWeight": "$fontWeights.iconLight",
             "lineHeight": "$fontSizes.sm",
-            "fontSize": "$fontSizes.sm",
+            "fontSize": "$fontSizes.sm * 10",
             "paragraphSpacing": "$fontSizes.sm",
             "letterSpacing": "$fontSizes.sm"
           }
@@ -1014,7 +1014,7 @@
             "fontFamily": "$fontFamilies.icon",
             "fontWeight": "$fontWeights.iconSolid",
             "lineHeight": "$fontSizes.sm",
-            "fontSize": "$fontSizes.sm",
+            "fontSize": "$fontSizes.sm * 10",
             "paragraphSpacing": "$fontSizes.sm",
             "letterSpacing": "$fontSizes.sm"
           }
@@ -1025,7 +1025,7 @@
             "fontFamily": "$fontFamilies.icon",
             "fontWeight": "$fontWeights.iconLight",
             "lineHeight": "$fontSizes.md",
-            "fontSize": "$fontSizes.md",
+            "fontSize": "$fontSizes.md * 10",
             "paragraphSpacing": "$fontSizes.md",
             "letterSpacing": "$fontSizes.md"
           }
@@ -1036,7 +1036,7 @@
             "fontFamily": "$fontFamilies.icon",
             "fontWeight": "$fontWeights.iconSolid",
             "lineHeight": "$fontSizes.md",
-            "fontSize": "$fontSizes.md",
+            "fontSize": "$fontSizes.md * 10",
             "paragraphSpacing": "$fontSizes.md",
             "letterSpacing": "$fontSizes.md"
           }
@@ -1047,7 +1047,7 @@
             "fontFamily": "$fontFamilies.icon",
             "fontWeight": "$fontWeights.iconLight",
             "lineHeight": "$fontSizes.lg",
-            "fontSize": "$fontSizes.lg",
+            "fontSize": "$fontSizes.lg * 10",
             "paragraphSpacing": "$fontSizes.lg",
             "letterSpacing": "$fontSizes.lg"
           }
@@ -1058,7 +1058,7 @@
             "fontFamily": "$fontFamilies.icon",
             "fontWeight": "$fontWeights.iconSolid",
             "lineHeight": "$fontSizes.lg",
-            "fontSize": "$fontSizes.lg",
+            "fontSize": "$fontSizes.lg * 10",
             "paragraphSpacing": "$fontSizes.lg",
             "letterSpacing": "$fontSizes.lg"
           }
@@ -1069,7 +1069,7 @@
             "fontFamily": "$fontFamilies.icon",
             "fontWeight": "$fontWeights.iconLight",
             "lineHeight": "$fontSizes.xl",
-            "fontSize": "$fontSizes.xl",
+            "fontSize": "$fontSizes.xl * 10",
             "paragraphSpacing": "$fontSizes.xl",
             "letterSpacing": "$fontSizes.xl"
           }
@@ -1080,7 +1080,7 @@
             "fontFamily": "$fontFamilies.icon",
             "fontWeight": "$fontWeights.iconSolid",
             "lineHeight": "$fontSizes.xl",
-            "fontSize": "$fontSizes.xl",
+            "fontSize": "$fontSizes.xl * 10",
             "paragraphSpacing": "$fontSizes.xl",
             "letterSpacing": "$fontSizes.xl"
           }

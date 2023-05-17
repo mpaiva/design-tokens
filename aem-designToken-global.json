@@ -49,32 +49,32 @@
         "type": "sizing"
       },
       "xs": {
-        "value": "{sizing.size-7} / {sizing.rem}",
+        "value": "{sizing.size-7} / {sizing.rem} / 100",
         "type": "sizing",
         "description": "Alan's size"
       },
       "sm": {
-        "value": "{sizing.size-6} / {sizing.rem}",
+        "value": "{sizing.size-6} / {sizing.rem} / 100",
         "type": "sizing"
       },
       "md": {
-        "value": "{sizing.size-5} / {sizing.rem}",
+        "value": "{sizing.size-5} / {sizing.rem} / 100",
         "type": "sizing"
       },
       "lg": {
-        "value": "{sizing.size-4} / {sizing.rem}",
+        "value": "{sizing.size-4} / {sizing.rem} / 100",
         "type": "sizing"
       },
       "xl": {
-        "value": "{sizing.size-3} / {sizing.rem}",
+        "value": "{sizing.size-3} / {sizing.rem} / 100",
         "type": "sizing"
       },
       "2xl": {
-        "value": "{sizing.size-2} / {sizing.rem}",
+        "value": "{sizing.size-2} / {sizing.rem} / 100",
         "type": "sizing"
       },
       "3xl": {
-        "value": "{sizing.size-1} / {sizing.rem}",
+        "value": "{sizing.size-1} / {sizing.rem} / 100",
         "type": "sizing"
       },
       "size-1": {
@@ -785,23 +785,23 @@
         "type": "fontSizes"
       },
       "xs": {
-        "value": "{sizing.xs} / 100",
+        "value": "{sizing.xs}",
         "type": "fontSizes"
       },
       "sm": {
-        "value": "{sizing.sm} / 100",
+        "value": "{sizing.sm}",
         "type": "fontSizes"
       },
       "md": {
-        "value": "{sizing.md} / 100",
+        "value": "{sizing.md}",
         "type": "fontSizes"
       },
       "lg": {
-        "value": "{sizing.lg} / 100",
+        "value": "{sizing.lg}",
         "type": "fontSizes"
       },
       "xl": {
-        "value": "{sizing.xl} / 100",
+        "value": "{sizing.xl}",
         "type": "fontSizes"
       }
     },

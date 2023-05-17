@@ -1240,7 +1240,7 @@
   },
   "high-contrast": {
     "foreground": {
-      "value": "{colors.shades.white-bis}",
+      "value": "{colors.shades.white}",
       "type": "color"
     },
     "background": {
@@ -1260,7 +1260,7 @@
       "type": "color"
     },
     "focus": {
-      "value": "{colors.pink.500}",
+      "value": "{colors.green.600}",
       "type": "color"
     },
     "shadow-1": {

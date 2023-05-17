@@ -983,7 +983,7 @@
             "lineHeight": "$fontSizes.xs",
             "fontSize": "$fontSizes.xs",
             "paragraphSpacing": "$fontSizes.xs",
-            "letterSpacing": "$$fontSizes.xs"
+            "letterSpacing": "$fontSizes.xs"
           }
         },
         "xsSolid": {
@@ -994,7 +994,7 @@
             "lineHeight": "$fontSizes.xs",
             "fontSize": "$fontSizes.xs",
             "paragraphSpacing": "$fontSizes.xs",
-            "letterSpacing": "$$fontSizes.xs"
+            "letterSpacing": "$fontSizes.xs"
           }
         },
         "smLight": {
@@ -1005,7 +1005,7 @@
             "lineHeight": "$fontSizes.sm",
             "fontSize": "$fontSizes.sm",
             "paragraphSpacing": "$fontSizes.sm",
-            "letterSpacing": "$$fontSizes.sm"
+            "letterSpacing": "$fontSizes.sm"
           }
         },
         "smSolid": {
@@ -1016,7 +1016,7 @@
             "lineHeight": "$fontSizes.sm",
             "fontSize": "$fontSizes.sm",
             "paragraphSpacing": "$fontSizes.sm",
-            "letterSpacing": "$$fontSizes.sm"
+            "letterSpacing": "$fontSizes.sm"
           }
         },
         "mdLight": {
@@ -1027,7 +1027,7 @@
             "lineHeight": "$fontSizes.md",
             "fontSize": "$fontSizes.md",
             "paragraphSpacing": "$fontSizes.md",
-            "letterSpacing": "$$fontSizes.md"
+            "letterSpacing": "$fontSizes.md"
           }
         },
         "mdSolid": {
@@ -1038,7 +1038,7 @@
             "lineHeight": "$fontSizes.md",
             "fontSize": "$fontSizes.md",
             "paragraphSpacing": "$fontSizes.md",
-            "letterSpacing": "$$fontSizes.md"
+            "letterSpacing": "$fontSizes.md"
           }
         },
         "lgLight": {
@@ -1049,7 +1049,7 @@
             "lineHeight": "$fontSizes.lg",
             "fontSize": "$fontSizes.lg",
             "paragraphSpacing": "$fontSizes.lg",
-            "letterSpacing": "$$fontSizes.lg"
+            "letterSpacing": "$fontSizes.lg"
           }
         },
         "lgSolid": {
@@ -1060,7 +1060,7 @@
             "lineHeight": "$fontSizes.lg",
             "fontSize": "$fontSizes.lg",
             "paragraphSpacing": "$fontSizes.lg",
-            "letterSpacing": "$$fontSizes.lg"
+            "letterSpacing": "$fontSizes.lg"
           }
         },
         "xlLight": {
@@ -1071,7 +1071,7 @@
             "lineHeight": "$fontSizes.xl",
             "fontSize": "$fontSizes.xl",
             "paragraphSpacing": "$fontSizes.xl",
-            "letterSpacing": "$$fontSizes.xl"
+            "letterSpacing": "$fontSizes.xl"
           }
         },
         "xlSolid": {

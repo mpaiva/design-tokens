@@ -785,23 +785,23 @@
         "type": "fontSizes"
       },
       "xs": {
-        "value": "{sizing.xs}",
+        "value": "{sizing.xs} / 100",
         "type": "fontSizes"
       },
       "sm": {
-        "value": "{sizing.sm}",
+        "value": "{sizing.sm} / 100",
         "type": "fontSizes"
       },
       "md": {
-        "value": "{sizing.md}",
+        "value": "{sizing.md} / 100",
         "type": "fontSizes"
       },
       "lg": {
-        "value": "{sizing.lg}",
+        "value": "{sizing.lg} / 100",
         "type": "fontSizes"
       },
       "xl": {
-        "value": "{sizing.xl}",
+        "value": "{sizing.xl} / 100",
         "type": "fontSizes"
       }
     },

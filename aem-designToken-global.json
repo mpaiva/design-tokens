@@ -980,10 +980,10 @@
           "value": {
             "fontFamily": "$fontFamilies.icon",
             "fontWeight": "$fontWeights.iconLight",
-            "lineHeight": "$fontSizes.xs",
+            "lineHeight": "auto",
             "fontSize": "$fontSizes.xs * 10",
-            "paragraphSpacing": "$fontSizes.xs",
-            "letterSpacing": "$fontSizes.xs"
+            "paragraphSpacing": "auto",
+            "letterSpacing": "auto"
           }
         },
         "xsSolid": {
@@ -991,10 +991,10 @@
           "value": {
             "fontFamily": "$fontFamilies.icon",
             "fontWeight": "$fontWeights.iconSolid",
-            "lineHeight": "$fontSizes.xs",
+            "lineHeight": "auto",
             "fontSize": "$fontSizes.xs * 10",
-            "paragraphSpacing": "$fontSizes.xs",
-            "letterSpacing": "$fontSizes.xs"
+            "paragraphSpacing": "auto",
+            "letterSpacing": "auto"
           }
         },
         "smLight": {
@@ -1002,10 +1002,10 @@
           "value": {
             "fontFamily": "$fontFamilies.icon",
             "fontWeight": "$fontWeights.iconLight",
-            "lineHeight": "$fontSizes.sm",
+            "lineHeight": "auto",
             "fontSize": "$fontSizes.sm * 10",
-            "paragraphSpacing": "$fontSizes.sm",
-            "letterSpacing": "$fontSizes.sm"
+            "paragraphSpacing": "auto",
+            "letterSpacing": "auto"
           }
         },
         "smSolid": {
@@ -1013,10 +1013,10 @@
           "value": {
             "fontFamily": "$fontFamilies.icon",
             "fontWeight": "$fontWeights.iconSolid",
-            "lineHeight": "$fontSizes.sm",
+            "lineHeight": "auto",
             "fontSize": "$fontSizes.sm * 10",
-            "paragraphSpacing": "$fontSizes.sm",
-            "letterSpacing": "$fontSizes.sm"
+            "paragraphSpacing": "auto",
+            "letterSpacing": "auto"
           }
         },
         "mdLight": {
@@ -1024,10 +1024,10 @@
           "value": {
             "fontFamily": "$fontFamilies.icon",
             "fontWeight": "$fontWeights.iconLight",
-            "lineHeight": "$fontSizes.md",
+            "lineHeight": "auto",
             "fontSize": "$fontSizes.md * 10",
-            "paragraphSpacing": "$fontSizes.md",
-            "letterSpacing": "$fontSizes.md"
+            "paragraphSpacing": "auto",
+            "letterSpacing": "auto"
           }
         },
         "mdSolid": {
@@ -1035,10 +1035,10 @@
           "value": {
             "fontFamily": "$fontFamilies.icon",
             "fontWeight": "$fontWeights.iconSolid",
-            "lineHeight": "$fontSizes.md",
+            "lineHeight": "auto",
             "fontSize": "$fontSizes.md * 10",
-            "paragraphSpacing": "$fontSizes.md",
-            "letterSpacing": "$fontSizes.md"
+            "paragraphSpacing": "auto",
+            "letterSpacing": "auto"
           }
         },
         "lgLight": {
@@ -1046,10 +1046,10 @@
           "value": {
             "fontFamily": "$fontFamilies.icon",
             "fontWeight": "$fontWeights.iconLight",
-            "lineHeight": "$fontSizes.lg",
+            "lineHeight": "auto",
             "fontSize": "$fontSizes.lg * 10",
-            "paragraphSpacing": "$fontSizes.lg",
-            "letterSpacing": "$fontSizes.lg"
+            "paragraphSpacing": "auto",
+            "letterSpacing": "auto"
           }
         },
         "lgSolid": {
@@ -1057,10 +1057,10 @@
           "value": {
             "fontFamily": "$fontFamilies.icon",
             "fontWeight": "$fontWeights.iconSolid",
-            "lineHeight": "$fontSizes.lg",
+            "lineHeight": "auto",
             "fontSize": "$fontSizes.lg * 10",
-            "paragraphSpacing": "$fontSizes.lg",
-            "letterSpacing": "$fontSizes.lg"
+            "paragraphSpacing": "auto",
+            "letterSpacing": "auto"
           }
         },
         "xlLight": {
@@ -1068,10 +1068,10 @@
           "value": {
             "fontFamily": "$fontFamilies.icon",
             "fontWeight": "$fontWeights.iconLight",
-            "lineHeight": "$fontSizes.xl",
+            "lineHeight": "auto",
             "fontSize": "$fontSizes.xl * 10",
-            "paragraphSpacing": "$fontSizes.xl",
-            "letterSpacing": "$fontSizes.xl"
+            "paragraphSpacing": "auto",
+            "letterSpacing": "auto"
           }
         },
         "xlSolid": {
@@ -1079,10 +1079,10 @@
           "value": {
             "fontFamily": "$fontFamilies.icon",
             "fontWeight": "$fontWeights.iconSolid",
-            "lineHeight": "$fontSizes.xl",
+            "lineHeight": "auto",
             "fontSize": "$fontSizes.xl * 10",
-            "paragraphSpacing": "$fontSizes.xl",
-            "letterSpacing": "$fontSizes.xl"
+            "paragraphSpacing": "auto",
+            "letterSpacing": "auto"
           }
         }
       }

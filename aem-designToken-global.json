@@ -1115,7 +1115,7 @@
       "type": "typography"
     }
   },
-  "bulma-light": {
+  "default-theme": {
     "32": {
       "value": "32",
       "type": "spacing"
@@ -1238,7 +1238,7 @@
       }
     }
   },
-  "bulma-dark": {
+  "high-contrast": {
     "foreground": {
       "value": "{colors.shades.white-bis}",
       "type": "color"
@@ -1409,8 +1409,8 @@
   "$metadata": {
     "tokenSetOrder": [
       "global",
-      "bulma-light",
-      "bulma-dark",
+      "default-theme",
+      "high-contrast",
       "theme"
     ]
   }

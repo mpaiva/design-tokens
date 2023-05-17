@@ -2,7 +2,7 @@
   "global": {
     "spacing": {
       "scale": {
-        "value": "1",
+        "value": "1.5",
         "type": "spacing"
       },
       "xs": {

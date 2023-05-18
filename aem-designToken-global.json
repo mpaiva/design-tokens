@@ -1125,7 +1125,7 @@
         "bold": {
           "type": "typography",
           "value": {
-            "fontFamily": "Roboto",
+            "fontFamily": "Lobster",
             "fontWeight": "$fontWeights.headingBold",
             "lineHeight": "$lineHeights.heading",
             "fontSize": "$fontSizes.h1",

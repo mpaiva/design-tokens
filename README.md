@@ -1,6 +1,6 @@
 # design-tokens
 
-Design tokens repository to share design tokens concepts with UX communities.
+A simple repository to share my design tokens concepts with UX communities.
 
 ## What can you do here?
 

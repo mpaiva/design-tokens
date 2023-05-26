@@ -1,0 +1,26 @@
+{
+    "xs": {
+        "value": "100%",
+        "type": "paragraphSpacing"
+    },
+    "sm": {
+        "value": "120%",
+        "type": "paragraphSpacing"
+    },
+    "md": {
+        "value": "140%",
+        "type": "paragraphSpacing"
+    },
+    "lg": {
+        "value": "160%",
+        "type": "paragraphSpacing"
+    },
+    "xl": {
+        "value": "180%",
+        "type": "paragraphSpacing"
+    },
+    "xxl": {
+        "value": "200%",
+        "type": "paragraphSpacing"
+    }
+}

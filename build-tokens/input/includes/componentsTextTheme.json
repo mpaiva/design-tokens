@@ -1,0 +1,187 @@
+{
+    "inputDecorationTheme": {
+        "labelStyle": {
+            "type": "typography",
+            "value": {
+                "fontFamily": "$fontFamilies.label",
+                "fontSize": "$fontSizes.3",
+                "fontWeight": "$fontWeights.bold",
+                "lineHeight": "$lineHeights.8",
+                "paragraphSpacing": "$paragraphSpacing.md",
+                "letterSpacing": "$letterSpacing.neg-1"
+            }
+        }
+    },
+    "appBarTheme": {
+        "textTheme": {
+            "type": "typography",
+            "value": {
+                "fontFamily": "$fontFamilies.label",
+                "fontSize": "$fontSizes.3",
+                "fontWeight": "$fontWeights.bold",
+                "lineHeight": "$lineHeights.8",
+                "paragraphSpacing": "$paragraphSpacing.md",
+                "letterSpacing": "$letterSpacing.neg-1"
+            }
+        }
+    },
+    "tooltipTheme": {
+        "textStyle": {
+            "type": "typography",
+            "value": {
+                "fontFamily": "$fontFamilies.label",
+                "fontSize": "$fontSizes.3",
+                "fontWeight": "$fontWeights.bold",
+                "lineHeight": "$lineHeights.8",
+                "paragraphSpacing": "$paragraphSpacing.md",
+                "letterSpacing": "$letterSpacing.neg-1"
+            }
+        }
+    },
+    "dialogTheme": {
+        "contentStyle": {
+            "type": "typography",
+            "value": {
+                "fontFamily": "$fontFamilies.label",
+                "fontSize": "$fontSizes.3",
+                "fontWeight": "$fontWeights.bold",
+                "lineHeight": "$lineHeights.8",
+                "paragraphSpacing": "$paragraphSpacing.md",
+                "letterSpacing": "$letterSpacing.neg-1"
+            }
+        },
+        "titleTextStyle": {
+            "type": "typography",
+            "value": {
+                "fontFamily": "$fontFamilies.label",
+                "fontSize": "$fontSizes.3",
+                "fontWeight": "$fontWeights.bold",
+                "lineHeight": "$lineHeights.8",
+                "paragraphSpacing": "$paragraphSpacing.md",
+                "letterSpacing": "$letterSpacing.neg-1"
+            }
+        }
+    },
+    "navigationRailTheme": {
+        "selectedLabelTextStyle": {
+            "type": "typography",
+            "value": {
+                "fontFamily": "$fontFamilies.label",
+                "fontSize": "$fontSizes.3",
+                "fontWeight": "$fontWeights.bold",
+                "lineHeight": "$lineHeights.8",
+                "paragraphSpacing": "$paragraphSpacing.md",
+                "letterSpacing": "$letterSpacing.neg-1"
+            }   
+        },
+        "unselectedLabelTextStyle": {
+            "type": "typography",
+            "value": {
+                "fontFamily": "$fontFamilies.label",
+                "fontSize": "$fontSizes.3",
+                "fontWeight": "$fontWeights.bold",
+                "lineHeight": "$lineHeights.8",
+                "paragraphSpacing": "$paragraphSpacing.md",
+                "letterSpacing": "$letterSpacing.neg-1"
+            } 
+        }
+    },
+    "snackBarTheme": {
+        "contentTextStyle": {
+            "type": "typography",
+            "value": {
+                "fontFamily": "$fontFamilies.label",
+                "fontSize": "$fontSizes.3",
+                "fontWeight": "$fontWeights.bold",
+                "lineHeight": "$lineHeights.8",
+                "paragraphSpacing": "$paragraphSpacing.md",
+                "letterSpacing": "$letterSpacing.neg-1"
+            } 
+        }
+    },
+    "popupMenuTheme": {
+        "textStyle": {
+            "type": "typography",
+            "value": {
+                "fontFamily": "$fontFamilies.label",
+                "fontSize": "$fontSizes.3",
+                "fontWeight": "$fontWeights.bold",
+                "lineHeight": "$lineHeights.8",
+                "paragraphSpacing": "$paragraphSpacing.md",
+                "letterSpacing": "$letterSpacing.neg-1"
+            } 
+        }
+    },
+    "materialBannerTheme": {
+        "contentTextStyle": {
+            "type": "typography",
+            "value": {
+                "fontFamily": "$fontFamilies.label",
+                "fontSize": "$fontSizes.3",
+                "fontWeight": "$fontWeights.bold",
+                "lineHeight": "$lineHeights.8",
+                "paragraphSpacing": "$paragraphSpacing.md",
+                "letterSpacing": "$letterSpacing.neg-1"
+            } 
+        }
+    },
+    "timePickerTheme": {
+        "dayPeriodTextStyle": {
+            "type": "typography",
+            "value": {
+                "fontFamily": "$fontFamilies.label",
+                "fontSize": "$fontSizes.3",
+                "fontWeight": "$fontWeights.bold",
+                "lineHeight": "$lineHeights.8",
+                "paragraphSpacing": "$paragraphSpacing.md",
+                "letterSpacing": "$letterSpacing.neg-1"
+            } 
+        },
+        "helpTextStyle": {
+            "type": "typography",
+            "value": {
+                "fontFamily": "$fontFamilies.label",
+                "fontSize": "$fontSizes.3",
+                "fontWeight": "$fontWeights.bold",
+                "lineHeight": "$lineHeights.8",
+                "paragraphSpacing": "$paragraphSpacing.md",
+                "letterSpacing": "$letterSpacing.neg-1"
+            } 
+        },
+        "hourMinuteTextStyle": {
+            "type": "typography",
+            "value": {
+                "fontFamily": "$fontFamilies.label",
+                "fontSize": "$fontSizes.3",
+                "fontWeight": "$fontWeights.bold",
+                "lineHeight": "$lineHeights.8",
+                "paragraphSpacing": "$paragraphSpacing.md",
+                "letterSpacing": "$letterSpacing.neg-1"
+            } 
+        }
+    },
+    "dataTableTheme": {
+        "dataTextStyle": {
+            "type": "typography",
+            "value": {
+                "fontFamily": "$fontFamilies.label",
+                "fontSize": "$fontSizes.3",
+                "fontWeight": "$fontWeights.bold",
+                "lineHeight": "$lineHeights.8",
+                "paragraphSpacing": "$paragraphSpacing.md",
+                "letterSpacing": "$letterSpacing.neg-1"
+            } 
+        },
+        "headingTextStyle": {
+            "type": "typography",
+            "value": {
+                "fontFamily": "$fontFamilies.label",
+                "fontSize": "$fontSizes.3",
+                "fontWeight": "$fontWeights.bold",
+                "lineHeight": "$lineHeights.8",
+                "paragraphSpacing": "$paragraphSpacing.md",
+                "letterSpacing": "$letterSpacing.neg-1"
+            } 
+        }
+    }
+}

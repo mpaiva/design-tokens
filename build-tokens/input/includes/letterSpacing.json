@@ -1,0 +1,30 @@
+{
+    "neg-3": {
+        "value": "-8%",
+        "type": "letterSpacing"
+    },
+    "neg-2": {
+        "value": "-6%",
+        "type": "letterSpacing"
+    },
+    "neg-1": {
+        "value": "-2%",
+        "type": "letterSpacing"
+    },
+    "auto": {
+        "value": 0,
+        "type": "letterSpacing"
+    },
+    "pos-1": {
+        "value": "2%",
+        "type": "letterSpacing"
+    },
+    "pos-2": {
+        "value": "6%",
+        "type": "letterSpacing"
+    },
+    "pos-3": {
+        "value": "8%",
+        "type": "letterSpacing"
+    }
+}

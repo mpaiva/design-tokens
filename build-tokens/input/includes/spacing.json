@@ -1,0 +1,22 @@
+{
+  "xs": {
+    "value": 4,
+    "type": "spacing"
+  },
+  "sm": {
+    "value": 8,
+    "type": "spacing"
+  },
+  "md": {
+    "value": 16,
+    "type": "spacing"
+  },
+  "lg": {
+    "value": 32,
+    "type": "spacing"
+  },
+  "xl": {
+    "value": 96,
+    "type": "spacing"
+  }
+}

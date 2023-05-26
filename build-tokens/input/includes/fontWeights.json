@@ -1,0 +1,51 @@
+{
+  "thin": {
+    "value": "Thin",
+    "type": "fontWeights"
+  },
+  "extraLight": {
+    "value": "ExtraLight",
+    "type": "fontWeights"
+  },
+  "light": {
+    "value": "Light",
+    "type": "fontWeights"
+  },
+  "medium": {
+    "value": "Medium",
+    "type": "fontWeights"
+  },
+  "regular": {
+    "value": "Regular",
+    "type": "fontWeights"
+  },
+  "semiBold": {
+    "value": "SemiBold",
+    "type": "fontWeights"
+  },
+  "bold": {
+    "value": "Bold",
+    "type": "fontWeights"
+  },
+  "extraBold": {
+    "value": "ExtraBold",
+    "type": "fontWeights"
+  },
+  "black": {
+    "value": "Black",
+    "type": "fontWeights"
+  },
+  "iconLight": {
+    "value": "Light",
+    "type": "fontWeights"
+  },
+  "iconRegular": {
+    "value": "Regular",
+    "type": "fontWeights"
+  },
+  "iconSolid": {
+    "value": "Solid",
+    "type": "fontWeights"
+  }
+
+}

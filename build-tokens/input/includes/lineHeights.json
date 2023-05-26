@@ -1,0 +1,46 @@
+{
+    "0": {
+        "value": "100%",
+        "type": "lineHeights"
+    },
+    "1": {
+        "value": "113.3%",
+        "type": "lineHeights"
+    },
+    "2": {
+        "value": "116.7%",
+        "type": "lineHeights"
+    },
+    "3": {
+        "value": "123.5%",
+        "type": "lineHeights"
+    },
+    "4": {
+        "value": "133.4%",
+        "type": "lineHeights"
+    },
+    "5": {
+        "value": "143%",
+        "type": "lineHeights"
+    },
+    "6": {
+        "value": "157%",
+        "type": "lineHeights"
+    },
+    "7": {
+        "value": "166%",
+        "type": "lineHeights"
+    },
+    "8": {
+        "value": "175%",
+        "type": "lineHeights"
+    },
+    "9": {
+        "value": "266%",
+        "type": "lineHeights"
+    },
+    "10": {
+        "value": "300%",
+        "type": "lineHeights"
+    }
+}

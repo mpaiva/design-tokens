@@ -1,0 +1,22 @@
+{
+    "none": {
+        "value": 0,
+        "type": "borderWidth"
+    },
+    "xs": {
+        "value": 1,
+        "type": "borderWidth"
+    },
+    "sm": {
+        "value": 2,
+        "type": "borderWidth"
+    },
+    "md": {
+        "value": 4,
+        "type": "borderWidth"
+    },
+    "lg": {
+        "value": 8,
+        "type": "borderWidth"
+    }
+}

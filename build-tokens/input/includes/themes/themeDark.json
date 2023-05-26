@@ -1,0 +1,54 @@
+{
+    "primary": {
+        "value": "$colors.teal.500",
+        "type": "color"
+    },
+    "primaryVariant": {
+        "value": "$colors.teal.300",
+        "type": "color"
+    },
+    "secondary": {
+        "value": "$colors.teal.400",
+        "type": "color"
+    },
+    "secondaryVariant": {
+        "value": "$colors.teal.200",
+        "type": "color"
+    },
+    "surface": {
+        "value": "$colors.gray.800",
+        "type": "color"
+    },
+    "background": {
+        "value": "$colors.gray.900",
+        "type": "color"
+    },
+    "error": {
+        "value": "$colors.red.600",
+        "type": "color"
+    },
+    "onPrimary": {
+        "value": "$colors.neutral.white",
+        "type": "color"
+    },
+    "onSecondary": {
+        "value": "$colors.neutral.black",
+        "type": "color"
+    },
+    "onSurface": {
+        "value": "$colors.gray.400",
+        "type": "color"
+    },
+    "onBackground": {
+        "value": "$colors.neutral.white",
+        "type": "color"
+    },
+    "onError": {
+        "value": "$colors.neutral.white",
+        "type": "color"
+    },
+    "brightness": {
+        "value": "dark",
+        "type": "brightness"
+    }
+}

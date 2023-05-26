@@ -1,0 +1,102 @@
+{
+    "1dp": {
+        "value": {
+            "x": 0,
+            "y": 1,
+            "blur": 3,
+            "spread": 0,
+            "color": "rgba(0, 0, 0, 0.2)"
+        },
+        "type": "boxShadow"
+    },
+    "2dp": {
+        "value": {
+            "x": 0,
+            "y": 1,
+            "blur": 5,
+            "spread": 0,
+            "color": "rgba(0, 0, 0, 0.2)"
+        },
+        "type": "boxShadow"
+    },
+    "3dp": {
+        "value": {
+            "x": 0,
+            "y": 1,
+            "blur": 8,
+            "spread": -1,
+            "color": "rgba(0, 0, 0, 0.2)"
+        },
+        "type": "boxShadow"
+    },
+    "4dp": {
+        "value": {
+            "x": 0,
+            "y": 2,
+            "blur": 4,
+            "spread": -1,
+            "color": "rgba(0, 0, 0, 0.2)"
+        },
+        "type": "boxShadow"
+    },
+    "6dp": {
+        "value": {
+            "x": 0,
+            "y": 3,
+            "blur": 5,
+            "spread": -1,
+            "color": "rgba(0, 0, 0, 0.2)"
+        },
+        "type": "boxShadow"
+    },
+    "8dp": {
+        "value": {
+            "x": 0,
+            "y": 5,
+            "blur": 5,
+            "spread": -3,
+            "color": "rgba(0, 0, 0, 0.2)"
+        },
+        "type": "boxShadow"
+    },
+    "9dp": {
+        "value": {
+            "x": 0,
+            "y": 5,
+            "blur": 6,
+            "spread": -3,
+            "color": "rgba(0, 0, 0, 0.2)"
+        },
+        "type": "boxShadow"
+    },
+    "12dp": {
+        "value": {
+            "x": 0,
+            "y": 7,
+            "blur": 8,
+            "spread": -4,
+            "color": "rgba(0, 0, 0, 0.2)"
+        },
+        "type": "boxShadow"
+    },
+    "16dp": {
+        "value": {
+            "x": 0,
+            "y": 8,
+            "blur": 10,
+            "spread": -6,
+            "color": "rgba(0, 0, 0, 0.2)"
+        },
+        "type": "boxShadow"
+    },
+    "24dp": {
+        "value": {
+            "x": 0,
+            "y": 11,
+            "blur": 15,
+            "spread": -9,
+            "color": "rgba(0, 0, 0, 0.2)"
+        },
+        "type": "boxShadow"
+    }
+}

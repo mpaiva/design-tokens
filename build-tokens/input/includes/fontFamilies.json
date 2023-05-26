@@ -1,0 +1,22 @@
+{
+  "heading": {
+    "value": "Public Sans",
+    "type": "fontFamilies"
+  },
+  "body": {
+    "value": "Public Sans",
+    "type": "fontFamilies"
+  },
+  "label": {
+    "value": "Public Sans",
+    "type": "fontFamilies"
+  },
+  "code": {
+    "value": "Roboto Mono",
+    "type": "fontFamilies"
+  },
+  "icon": {
+    "value": "Font Awesome 5 Pro",
+    "type": "fontFamilies"
+  }
+}

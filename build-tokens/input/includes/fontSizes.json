@@ -1,0 +1,122 @@
+{
+    "micro": {
+        "value": "10",
+        "type": "fontSizes"
+    },
+    "1": {
+        "value": "12",
+        "type": "fontSizes"
+    },
+    "2": {
+        "value": "13",
+        "type": "fontSizes"
+    },
+    "3": {
+        "value": "14",
+        "type": "fontSizes"
+    },
+    "4": {
+        "value": "15",
+        "type": "fontSizes"
+    },
+    "5": {
+        "value": "16",
+        "type": "fontSizes"
+    },
+    "6": {
+        "value": "17",
+        "type": "fontSizes"
+    },
+    "7": {
+        "value": "18",
+        "type": "fontSizes"
+    },
+    "8": {
+        "value": "20",
+        "type": "fontSizes"
+    },
+    "9": {
+        "value": "22",
+        "type": "fontSizes"
+    },
+    "10": {
+        "value": "24",
+        "type": "fontSizes"
+    },
+    "11": {
+        "value": "28",
+        "type": "fontSizes"
+    },
+    "12": {
+        "value": "32",
+        "type": "fontSizes"
+    },
+    "13": {
+        "value": "34",
+        "type": "fontSizes"
+    },
+    "14": {
+        "value": "40",
+        "type": "fontSizes"
+    },
+    "15": {
+        "value": "48",
+        "type": "fontSizes"
+    },
+    "16": {
+        "value": "56",
+        "type": "fontSizes"
+    },
+    "17": {
+        "value": "72",
+        "type": "fontSizes"
+    },
+    "18": {
+        "value": "84.5",
+        "type": "fontSizes"
+    },
+    "19": {
+        "value": "96",
+        "type": "fontSizes"
+    },
+    "20": {
+        "value": "180",
+        "type": "fontSizes"
+    },
+    "22": {
+        "value": "240",
+        "type": "fontSizes"
+    },
+    "24": {
+        "value": "360",
+        "type": "fontSizes"
+    },
+    "icon3xl": {
+        "value": "360",
+        "type": "fontSizes"
+    },
+    "icon2xl": {
+        "value": "180",
+        "type": "fontSizes"
+    },
+    "iconXl": {
+        "value": "$fontSizes.xxl * 2",
+        "type": "fontSizes"
+    },
+    "iconLg": {
+        "value": "48",
+        "type": "fontSizes"
+    },
+    "iconMd": {
+        "value": "24",
+        "type": "fontSizes"
+    },
+    "iconSm": {
+        "value": "16",
+        "type": "fontSizes"
+    },
+    "iconXs": {
+        "value": "12",
+        "type": "fontSizes"
+    }
+}
